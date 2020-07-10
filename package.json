@@ -1,7 +1,7 @@
 {
-  "name": "com.augustinas.simple-test",
-  "description": "Just a simple test Package",
+  "name": "com.augustinas.lfs_test",
+  "description": "Package containing Editor/NewImage.png",
   "version": "0.1.0",
-  "displayName": "Simple Package",
+  "displayName": "lfs_test",
   "hideInEditor": false
 }
